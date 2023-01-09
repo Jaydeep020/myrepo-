@@ -13,3 +13,4 @@ third = a;
 cout<<"the sum of digits is : "<<first+second+third;
 return 0;
 }
+dummmy changes
